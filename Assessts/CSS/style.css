@@ -218,7 +218,7 @@ header {
 }
 
 .hvr-sweep-to-top:before {
-    background-color: #f5fffa;
+    background-color: #db7093;
     text: #000000;
 }
 
@@ -369,33 +369,50 @@ h2 .our-story {
 
 .becki {
     position: static;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding: 20px;
     margin-top: 20px;
     margin-bottom: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    background-color: #db7093;
 }
 
 .lola {
     position: static;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    margin-left: 50px;
+    padding: 20px;
+    margin-top: 20px;
     margin-bottom: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    background-color: #db7093;
 }
 
 .sienna {
     position: static;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding: 20px;
+    margin-top: 20px;
     margin-bottom: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    background-color: #db7093;
 }
 
 .rachel {
     position: static;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    margin-left: 50px;
+    padding: 20px;
+    margin-top: 20px;
     margin-bottom: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    background-color: #db7093;
 }
 
 /*------------------------------Shows Section */
@@ -456,6 +473,55 @@ h2 .our-story {
 }
 
 .violin {
+    padding: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+/*------------------------------Music Section */
+.lyrics {
+    font-family: "Amiri",cursive;
+    text-align: center;
+    padding-bottom: 40px;
+    padding-top: 40px;
+}
+
+.card {
+    
+}
+
+.card-body {
+    background-color: rgba(0, 128, 128, 0.1);
+}
+
+.card-img-top {
+    
+}
+
+.card-title {
+    font-family: "Cinzel",cursive;
+    text-align: center;
+    background-color: #fffafa;
+}
+
+.card-text {
+    font-family: "Amiri",cursive;
+    text-align: center;
+}
+
+.btn {
+    background-color: rgba(0, 128, 128, 0.1);
+    border-color: #fffafa;
+}
+
+.btn-primary {
+    color: #000000;
+    font-family: "Cinzel",cursive;
+}
+
+.youtube {
     padding-top: 50px;
     padding-bottom: 50px;
     display: block;

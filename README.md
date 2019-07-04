@@ -355,7 +355,7 @@ This page entitled Meet the Band is two columns wide with four rows each row con
 Shows
 The Shows page features a table showing each show and location. Underneath there are quotes from people who are fans of the band, also a picture can be found on the right of the screen.
 Music
-Currently the Music page doesn’t have any content. I wanted to add audio and video clips of the band but unfortunatley I do not have any.
+Currently the Music page consits of song lyrics, a card bootsrp feature that in theory links to spotify and a youtube clip. As The Swallows is a made up band the youtube video links to a proper band. I wanted to add audio and video clips of the band but unfortunatley I do not have any.
 Contact
 This is three columns of contact info, booking contact, press contact and label contact. All avenues are covered here as all contacts are accessible.
 Existing Features
